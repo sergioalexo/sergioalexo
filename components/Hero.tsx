@@ -14,7 +14,7 @@ transition={{ duration: 0.8 }}
 SERGIO ALEXO
 </h1>
 <p className="mt-6 text-lg text-gray-400">
-Disco • House • Groove
+Web site is still in development
 </p>
 </motion.div>
 </section>

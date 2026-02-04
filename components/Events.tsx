@@ -1,6 +1,6 @@
 const events = [
-{ date: 'Mar 22, 2026', venue: 'Underground Club', city: 'Toronto' },
-{ date: 'Apr 05, 2026', venue: 'Rooftop Sessions', city: 'Montreal' },
+//{ date: 'Mar 22, 2026', venue: 'Underground Club', city: 'Toronto' },
+//{ date: 'Apr 05, 2026', venue: 'Rooftop Sessions', city: 'Montreal' },
 ]
 
 
