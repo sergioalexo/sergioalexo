@@ -1,8 +1,14 @@
-const events = [
-//{ date: 'Mar 22, 2026', venue: 'Underground Club', city: 'Toronto' },
-//{ date: 'Apr 05, 2026', venue: 'Rooftop Sessions', city: 'Montreal' },
-]
+type Event = {
+  date: string
+  venue: string
+  city: string
+}
 
+const events: Event[] = []
+// Example:
+// const events: Event[] = [
+//   { date: 'Mar 22, 2026', venue: 'Underground Club', city: 'Toronto' },
+// ]
 
 export default function Events() {
 return (
