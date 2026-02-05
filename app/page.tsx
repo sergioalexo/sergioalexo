@@ -3,6 +3,7 @@ import About from '@/components/About'
 import Events from '@/components/Events'
 import Mixes from '@/components/Mixes'
 import Contact from '@/components/Contact'
+import Links from '@/components/Links'
 
 
 export default function Home() {
@@ -13,6 +14,7 @@ return (
 <Events />
 <Mixes />
 <Contact />
+<Links />
 </main>
 )
 }
