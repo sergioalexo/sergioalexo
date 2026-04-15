@@ -75,4 +75,4 @@ This website is actively being developed and improved over time.
 ---
 
 ## ⚠️ License
-All rights reserved © SRGIO ALEXO
+All rights reserved © SERGIO ALEXO
