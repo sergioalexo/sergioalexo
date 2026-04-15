@@ -1,6 +1,6 @@
-# SRGIO ALEXO — Personal Website
+# SERGIO ALEXO — Personal Website
 
-Official website of **SRGIO ALEXO** — Winnipeg-based DJ and artist focused on groovy house and melodic elements.
+Official website of **SERGIO ALEXO** — Winnipeg-based DJ and artist focused on groovy house and melodic elements.
 
 ---
 
