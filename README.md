@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SRGIO ALEXO — Personal Website
 
-## Getting Started
+Official website of **SRGIO ALEXO** — Winnipeg-based DJ and artist focused on groovy house and melodic elements.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌐 Overview
+This project represents the main online presence of SRGIO ALEXO.  
+It is designed to showcase music, brand identity, and provide a central hub for bookings, content, and updates.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 👤 About
+Hi, I'm **Sergio Alexo**, a DJ based in Winnipeg, originally from Ukraine.  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+I focus on **groovy house** with melodic elements, blending rhythm, atmosphere, and energy to create a unique sound both in studio and live performances.
 
-## Learn More
+My goal is to build a recognizable sound and visual identity that connects with people on and off the dancefloor.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎧 What I Do
+- DJ sets (live & recorded)
+- Music curation and track selection
+- Brand development & visual identity
+- Content creation (video mixes, rooftop sessions, etc.)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📦 Features
+- Artist profile & branding
+- Embedded DJ mixes / videos
+- Booking & contact information
+- Links to social platforms
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🚀 Tech Stack
+- HTML / CSS / JavaScript  
+- React / Next.js
+- Hosting: Vercel
+
+---
+
+## 🤝 Open Source & Contributions
+This project is open to ideas and creative collaboration.
+
+You are welcome to:
+- Suggest improvements
+- Propose design or UX changes
+- Add new features
+- Submit edits or refinements
+- Create completely new concepts or versions
+
+Feel free to fork the project and submit a **Pull Request**, or open an **Issue** to share your ideas.
+
+---
+
+## 📬 Contact & Bookings
+For bookings and collaborations:  
+👉 DM on Instagram  
+
+---
+
+## 🔗 Socials
+- Instagram  https://www.instagram.com/sergioalexoo/
+- YouTube  https://www.youtube.com/@SergioAlexoo
+- Audius  https://audius.co/sergioalexo 
+
+---
+
+## 🔄 Status
+This website is actively being developed and improved over time.
+
+---
+
+## ⚠️ License
+All rights reserved © SRGIO ALEXO
