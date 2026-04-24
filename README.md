@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
 
-## Getting Started
+### Live - https://react-portfolio-template.netlify.app
+### Demo Video - https://www.youtube.com/watch?v=62_HLbx2zLQ&t=9s
+### Open Source UI Components - https://ui.chetanverma.com/
 
-First, run the development server:
+### Tutorials
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Youtube - https://www.youtube.com/watch?v=8cmJ2kR4SpM
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Blog - https://www.chetanverma.com/blog/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Features - 
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Modern Stack (Next.js + TailwindCSS)
+- Minimal Design
+- Easy To Browse
+- Easy To Customize your details With GUI
+- Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
+- Dark Mode
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+### Sections
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Header
+- Work
+- Services
+- About
+- Contact
+- Markdown Blog
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+### How To Use
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Clone this repo
+- run `yarn`
+- `yarn dev`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+### How To Deploy - 
+
+- There are many ways to Deploy this repo.
+- here we are gonna use netlify
+- Login into netlify with github
+- after login select the forked repo or the repo you want to deploy
+- after selecting netlify will automatially deploy your website.
+
+Quickes way to deploy this repo - 
+
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
+
+
+### How To Contribute - 
+
+I would be very happy to review your PRs and all the awesome things that you can improve on this portfolio.
+
+
+### Tech Stack Used - 
+- Next.js
+- TailwindCSS
+
+
+### Thanks
+
+If you liked this portfolio template, don't forget to give it a ⭐.
+
+## Awesome Contributors
+[@Aryan3212](https://github.com/Aryan3212) [@achu-krishna](https://github.com/achu-krishna)
+
+## Supporting
+Many hours of hard work have gone into this project. Your support will be very appreciated!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chetanverma)
+
+
+
+
+
+
