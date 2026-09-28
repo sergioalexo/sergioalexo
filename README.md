@@ -36,6 +36,18 @@ More on [Audius](https://audius.co/SergioAlexo) and [SoundCloud](https://soundcl
 
 ---
 
+## 📅 Upcoming Gigs
+
+<!-- GIGS:START -->
+| Date | Event | Venue | Tickets |
+|---|---|---|---|
+| Fri, Oct 30 · 9 PM | [Ukrainian Halloween Party in Winnipeg](https://www.sergioalexo.com/events/oct-30-ukrainian-halloween-party-in-winnipeg) | Pyramid Cabaret, Winnipeg | [From $17.40 CAD](https://www.eventbrite.ca/e/oct-30-ukrainian-halloween-party-in-winnipeg-tickets-2000690425921) |
+
+All dates → [sergioalexo.com/events](https://www.sergioalexo.com/events)
+<!-- GIGS:END -->
+
+---
+
 ## 🎛️ Setup
 
 | | Gear |
