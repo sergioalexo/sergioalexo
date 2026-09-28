@@ -9,6 +9,7 @@ Groovy house & melodic sound — Winnipeg, Canada 🇨🇦 · from Ukraine 🇺�
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sergioalexoo)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/sergioalexo)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SergioAlexoo)
+[![Email](https://img.shields.io/badge/mgmt@sergioalexo.com-2B2D42?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mgmt@sergioalexo.com)
 
 </div>
 
@@ -82,7 +83,11 @@ Ideas, issues and pull requests are welcome on any public repo — bug reports, 
 
 ## 📬 Bookings
 
-For bookings and collaborations → [sergioalexo.com](https://sergioalexo.com) or DM on [Instagram](https://instagram.com/sergioalexoo).
+For bookings and collaborations:
+
+- ✉️ **Email:** [mgmt@sergioalexo.com](mailto:mgmt@sergioalexo.com)
+- 🌐 **Website:** [sergioalexo.com](https://sergioalexo.com)
+- 💬 **Instagram DM:** [@sergioalexoo](https://instagram.com/sergioalexoo)
 
 ---
 
