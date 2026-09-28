@@ -1,6 +1,6 @@
 <div align="center">
 
-# SERGIO ALEXO
+<img src="assets/banner.jpg" alt="Sergio Alexo — Winnipeg DJ" width="100%">
 
 **DJ · Producer · Builder**<br>
 Groovy house & melodic sound — Winnipeg, Canada 🇨🇦 · from Ukraine 🇺🇦
