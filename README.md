@@ -73,7 +73,7 @@ More on [Audius](https://audius.co/SergioAlexo) and [SoundCloud](https://soundcl
 - ᛟ [**slavic-symbols**](https://github.com/sergioalexo/slavic-symbols) — illustrated encyclopedia of Slavic symbols
 
 **Brand**
-- 🪪 [Business card](https://github.com/sergioalexo/sergioalexo-business-card) · 📦 [Media kit](https://github.com/sergioalexo/sergioalexo-media-kit) · ✒️ [Logo](https://github.com/sergioalexo/sergioalexo-logo) · 🖼️ [Banner](https://github.com/sergioalexo/sergioalexo-banner)
+- 🪪 [Business card](https://github.com/sergioalexo/sergioalexo-business-card) · 📦 [Media kit](https://github.com/sergioalexo/sergioalexo-media-kit) · ✒️ [Logo](https://github.com/sergioalexo/sergioalexo-logo) · 🖼️ [Banner](https://github.com/sergioalexo/sergioalexo-logo/blob/main/banner2-email.jpg)
 
 ---
 
