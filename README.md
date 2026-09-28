@@ -28,10 +28,9 @@ Off the decks I build software: DJ tools, CAD and engineering utilities, and web
 
 <a href="https://audius.co/SergioAlexo/sergio-alexo-%E2%80%93-birthday-set-at-dreams-%7C-tech-house-dj-mix-%F0%9F%94%A5%F0%9F%8E%A7"><img src="assets/audius-4gBPjMa.png" alt="Play Birthday Set at Dreams — Tech House DJ Mix on Audius" width="100%"></a>
 
-<a href="https://audius.co/SergioAlexo/meduza-x-mgmt-kids-dont-wanna-go-home-sergio-alexo-mashup"><img src="assets/audius-y6mYKRd.png" alt="Play MEDUZA X MGMT - Kids (Don't Wanna Go Home) [Sergio Alexo Mashup] on Audius" width="49%"></a>
-<a href="https://audius.co/SergioAlexo/sho-coffee-bar-open-format-night-by-sergio-alexo"><img src="assets/audius-1YvQ5yr.png" alt="Play SHO Coffee & Bar - Open-Format Night on Audius" width="49%"></a>
-<a href="https://audius.co/SergioAlexo/b2b-gr4y-x-maximo-home-set-%F0%9F%94%A5"><img src="assets/audius-YJrpGNv.png" alt="Play B2B GR4Y X MAXIMO @ HOME SET on Audius" width="49%"></a>
-<a href="https://audius.co/SergioAlexo/nightclub-journey-sergio-alexo-%F0%9F%9A%80-house-mix"><img src="assets/audius-wyZ8Od5.png" alt="Play Nightclub Journey - House Mix on Audius" width="49%"></a>
+<a href="https://audius.co/SergioAlexo/meduza-x-mgmt-kids-dont-wanna-go-home-sergio-alexo-mashup"><img src="assets/audius-y6mYKRd-l.png" alt="Play MEDUZA X MGMT - Kids (Don't Wanna Go Home) [Sergio Alexo Mashup] on Audius" width="50%"></a><a href="https://audius.co/SergioAlexo/sho-coffee-bar-open-format-night-by-sergio-alexo"><img src="assets/audius-1YvQ5yr-r.png" alt="Play SHO Coffee & Bar - Open-Format Night on Audius" width="50%"></a>
+
+<a href="https://audius.co/SergioAlexo/b2b-gr4y-x-maximo-home-set-%F0%9F%94%A5"><img src="assets/audius-YJrpGNv-l.png" alt="Play B2B GR4Y X MAXIMO @ HOME SET on Audius" width="50%"></a><a href="https://audius.co/SergioAlexo/nightclub-journey-sergio-alexo-%F0%9F%9A%80-house-mix"><img src="assets/audius-wyZ8Od5-r.png" alt="Play Nightclub Journey - House Mix on Audius" width="50%"></a>
 
 More on [Audius](https://audius.co/SergioAlexo) and [SoundCloud](https://soundcloud.com/sergioalexo).
 
